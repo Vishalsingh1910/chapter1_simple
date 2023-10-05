@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ASMD</string>
+    <string name="first_name">first_Name</string>
+    <string name="first_name_text">first_name</string>
+    <string name="enter_button_text">Enter</string>
+    <string name="welcome_to_the_app">Welcome to the app</string>
+    <string name="please_enter_your_name">please enter a full name!</string>
+    <string name="last_name_text">last name</string>
+</resources>
